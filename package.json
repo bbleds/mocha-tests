@@ -1,0 +1,22 @@
+{
+  "name": "mocha-tests",
+  "version": "1.0.0",
+  "description": "a simple test project for unit testing via Mocha",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bbleds/mocha-tests.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bbleds/mocha-tests/issues"
+  },
+  "homepage": "https://github.com/bbleds/mocha-tests#readme",
+  "devDependencies": {
+    "mocha": "^2.3.4"
+  }
+}
